@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there :jack_o_lantern:
+## I learn Java at [Job4j](https://job4j.ru/) 
 
 <!--
 **JeDiFoXxX/JediFoXxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
